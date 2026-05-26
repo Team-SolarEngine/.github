@@ -2,15 +2,15 @@
 
 <p>
     With this organization being here, you can check who is the developers of the engine! <br>
-    With that being said, Solar Engine was a fork of Psych Engine 0.6.3 that makes Psych Engine modding easier and having a modchart editor. <br>
-    We're currently working on a new recoded from scratch version based on 0.2.8!<br>
+    With that being said, Solar Engine <b>was</b> a fork of Psych Engine 0.6.3 that makes Psych Engine modding easier and having a modchart editor. <br>
+    We're currently working on a <b>new recoded from scratch version based on 0.2.8</b>! <br>
     We are a team of people who wants to make FNF modding and gameplay better!
 </p>
 <!-- fucking hope so you dumbass -->
 
 <h3> ⬜ Check the Solar Engine Repositories here! </h3>
 <ul>
-    <li> <a href="https://github.com/Team-SolarEngine/Solar-Engine"> Solar Engine </a> </li>
+    <li> <a href="https://github.com/Team-SolarEngine/Solar-Engine-Archive"> Solar Engine </a> (Old build, barely maintained) </li>
     <li> <a href="https://github.com/Team-SolarEngine/Solar-Website"> Solar Engine Website </a> </li>
     <li> <a href="https://github.com/Team-SolarEngine/Solar-Engine-Launcher"> <s> Solar Engine Launcher </s> </a> (Discontinued) </li>
     <li> <a href="https://github.com/VideoBotYT/Solar-Engine-Bonus-Songs"> <s> Solar Engine Bonus Songs </s> </a> (Discontinued) </li>
