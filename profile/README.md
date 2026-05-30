@@ -11,7 +11,7 @@
 <h3> ⬜ Check the Solar Engine Repositories here! </h3>
 <ul>
     <li> <a href="https://github.com/Team-SolarEngine/Solar-Engine-Archive"> Solar Engine | Psych 0.6.3 Base </a> (Old build, Semi-Discontinued) </li>
-    <li> Solar Engine | Base 0.2.8 (Private repo)</li>
+    <li> Solar Engine | Funkin' 0.2.8 Base (Private repo)</li>
     <li> <a href="https://github.com/Team-SolarEngine/Solar-Website"> Solar Engine Website </a> </li>
     <li> <a href="https://github.com/Team-SolarEngine/Solar-Engine-Launcher"> <s> Solar Engine Launcher </s> </a> (Discontinued) </li>
     <li> <a href="https://github.com/VideoBotYT/Solar-Engine-Bonus-Songs"> <s> Solar Engine Bonus Songs </s> </a> (Discontinued) </li>
