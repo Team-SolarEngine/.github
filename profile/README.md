@@ -10,7 +10,7 @@
 
 <h3> ⬜ Check the Solar Engine Repositories here! </h3>
 <ul>
-    <li> <a href="https://github.com/Team-SolarEngine/Solar-Engine-Archive"> Solar Engine </a> (Old build, barely maintained) </li>
+    <li> <a href="https://github.com/Team-SolarEngine/Solar-Engine-Archive"> Solar Engine </a> (Old build, Semi-Discontinued) </li>
     <li> <a href="https://github.com/Team-SolarEngine/Solar-Website"> Solar Engine Website </a> </li>
     <li> <a href="https://github.com/Team-SolarEngine/Solar-Engine-Launcher"> <s> Solar Engine Launcher </s> </a> (Discontinued) </li>
     <li> <a href="https://github.com/VideoBotYT/Solar-Engine-Bonus-Songs"> <s> Solar Engine Bonus Songs </s> </a> (Discontinued) </li>
